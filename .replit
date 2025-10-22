@@ -1,0 +1,5 @@
+run = "npm start"
+
+[env]
+NODE_ENV = "test"
+PORT = "5000"
